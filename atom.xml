@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小高之旅</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-28T04:03:29.567Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Tingqi Gao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初识Markdown语言</title>
+    <link href="http://yoursite.com/2018/01/26/%E5%88%9D%E8%AF%86Markdown%E8%AF%AD%E8%A8%80/"/>
+    <id>http://yoursite.com/2018/01/26/初识Markdown语言/</id>
+    <published>2018-01-26T03:25:29.000Z</published>
+    <updated>2018-01-28T04:03:29.567Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>Markdown</strong> 是一种可以使用普通文本编辑器编写的<a href="https://baike.baidu.com/item/%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/5964436?fr=aladdin" target="_blank" rel="noopener">标记语言</a>，通过简单的标记语法，它可以使普通文本内容具有一定的格式。  —– 摘抄自<a href="https://baike.baidu.com/item/markdown/3245829?fr=aladdin" target="_blank" rel="noopener">百度百科</a></p></blockquote><a id="more"></a><blockquote><p><strong>Markdown</strong> is a <a href="https://en.wikipedia.org/wiki/Lightweight_markup_language" target="_blank" rel="noopener">lightweight markup language</a>  with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.        —– From <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noopener">Wikipedia</a></p></blockquote><h1 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h1><h2 id="1-分级标题"><a href="#1-分级标题" class="headerlink" title="1.分级标题"></a>1.分级标题</h2><ul><li><p>代码：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"># 这是一级标题</span><br><span class="line">## 这是二级标题</span><br><span class="line">......</span><br><span class="line">###### 这是六级标题</span><br></pre></td></tr></table></figure></li><li><p><strong>Markdown</strong> 支持<strong>六级标题</strong>，在 <code>#</code> 后加<strong>空格</strong>。</p></li></ul><h2 id="2-粗体、斜体等"><a href="#2-粗体、斜体等" class="headerlink" title="2.粗体、斜体等"></a>2.粗体、斜体等</h2><ul><li><p>代码：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">*这是斜体*</span><br><span class="line">**这是粗体**</span><br><span class="line">***这是加粗斜体***</span><br><span class="line">~~这是删除线~~</span><br></pre></td></tr></table></figure></li><li><p>预览：<br><em>这是斜体</em><br><strong>这是粗体</strong><br><strong><em>这是加粗斜体</em></strong><br><del>这是删除线</del></p></li></ul><h2 id="3-无序列表"><a href="#3-无序列表" class="headerlink" title="3.无序列表"></a>3.无序列表</h2><ul><li><p>代码：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">使用 *，+，- 表示无序列表。例如：</span><br><span class="line">- 无序列表一</span><br><span class="line">- 无序列表二</span><br><span class="line">- 无序列表三</span><br></pre></td></tr></table></figure></li><li><p>预览：</p></li><li>无序列表一</li><li>无序列表二</li><li>无序列表三</li></ul><h2 id="4-有序列表"><a href="#4-有序列表" class="headerlink" title="4.有序列表"></a>4.有序列表</h2><ul><li><p>代码：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1. 有序列表一</span><br><span class="line">2. 有序列表二</span><br><span class="line">3. 有序列表三</span><br></pre></td></tr></table></figure></li><li><p>预览：</p></li></ul><ol><li>有序列表一</li><li>有序列表二</li><li>有序列表三</li></ol><h2 id="5-引用"><a href="#5-引用" class="headerlink" title="5.引用"></a>5.引用</h2><ul><li><p>代码：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&gt; 这是引用</span><br><span class="line">&gt; 这是引用</span><br><span class="line">&gt; 这是引用</span><br></pre></td></tr></table></figure></li><li><p>预览：</p><blockquote><p>这是引用<br>这是引用<br>这是引用</p></blockquote></li></ul><h2 id="6-插入链接"><a href="#6-插入链接" class="headerlink" title="6.插入链接"></a>6.插入链接</h2><ul><li><p>代码：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">[名称](链接地址)</span><br><span class="line">示例：[小高之旅](https://gaotingqi.github.io/)</span><br></pre></td></tr></table></figure></li><li><p>预览：<br><a href="https://gaotingqi.github.io/" target="_blank" rel="noopener">小高之旅</a></p></li></ul><h2 id="7-插入图片"><a href="#7-插入图片" class="headerlink" title="7.插入图片"></a>7.插入图片</h2><ul><li><p>代码：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">![名称](图片链接地址)</span><br><span class="line">示例：![猫](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=7ae34ea5632762d09433acedc185639f/95eef01f3a292df533f15d93bc315c6034a87302.jpg)</span><br></pre></td></tr></table></figure></li><li><p>预览：<br><img src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=7ae34ea5632762d09433acedc185639f/95eef01f3a292df533f15d93bc315c6034a87302.jpg" alt="猫"></p></li></ul><h2 id="8-插入代码"><a href="#8-插入代码" class="headerlink" title="8.插入代码"></a>8.插入代码</h2><ul><li><p>代码：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">` ` `</span><br><span class="line">这是一大段代码1</span><br><span class="line">` ` `</span><br><span class="line">这是行内代码 `这是行内代码`</span><br></pre></td></tr></table></figure></li><li><p>预览：</p>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">这是一大段代码1</span><br></pre></td></tr></table></figure></li></ul><p>这是行内代码 <code>这是行内代码</code></p><h2 id="9-表格"><a href="#9-表格" class="headerlink" title="9.表格"></a>9.表格</h2><p><em>语法说明：</em></p><p><strong>第一行</strong>为<em>表头</em>，<strong>第二行</strong>为<em>分隔表头和主体部分</em>，<strong>第三行</strong>开始<em>每一行为一个表格行</em>。<br>每列用 <code>|</code> 隔开。<br>第二行可以为每一列设定<em>对齐方式</em>。<br>默认为<strong>左对齐</strong>；在 <code>-</code> 右边加上 <code>:</code> 为<strong>右对齐</strong>；在 <code>-</code> 两边加 <code>:</code> 为<strong>居中对齐</strong>。</p><ul><li><p>代码：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">|学号|姓名|分数|</span><br><span class="line">|:-|:-:|-:|</span><br><span class="line">|小明|男|75|</span><br><span class="line">|小红|女|79|</span><br><span class="line">|小陆|男|92|</span><br></pre></td></tr></table></figure></li><li><p>预览：</p></li></ul><table><thead><tr><th style="text-align:left">学号</th><th style="text-align:center">姓名</th><th style="text-align:right">分数</th></tr></thead><tbody><tr><td style="text-align:left">12345</td><td style="text-align:center">小李</td><td style="text-align:right">75</td></tr><tr><td style="text-align:left">14785</td><td style="text-align:center">小明</td><td style="text-align:right">79</td></tr><tr><td style="text-align:left">14789</td><td style="text-align:center">小张</td><td style="text-align:right">92</td></tr></tbody></table><h2 id="10-复选框"><a href="#10-复选框" class="headerlink" title="10.复选框"></a>10.复选框</h2><p>使用 <code>- [ ]</code> 和 <code>- [x]</code> 语法可以创建复选框，实现 todo-list 等功能。例如：</p><ul><li style="list-style: none"><input type="checkbox" checked> 已完成事项</li><li style="list-style: none"><input type="checkbox"> 待办事项 1</li><li style="list-style: none"><input type="checkbox"> 待办事项 2</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; 是一种可以使用普通文本编辑器编写的&lt;a href=&quot;https://baike.baidu.com/item/%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/5964436?fr=aladdin&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;标记语言&lt;/a&gt;，通过简单的标记语法，它可以使普通文本内容具有一定的格式。  —– 摘抄自&lt;a href=&quot;https://baike.baidu.com/item/markdown/3245829?fr=aladdin&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;百度百科&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Markdown" scheme="http://yoursite.com/categories/Markdown/"/>
+    
+    
+      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="http://yoursite.com/2018/01/25/test/"/>
+    <id>http://yoursite.com/2018/01/25/test/</id>
+    <published>2018-01-25T08:32:49.000Z</published>
+    <updated>2018-01-27T07:41:58.168Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>By gaotingqi</p></blockquote><blockquote class="blockquote-center"><p>生活不止眼前的苟且，还有诗和远方的田野 </p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;By gaotingqi&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;生活不止眼前的苟且，还有诗和远方的田野 &lt;/p&gt;
+&lt;/blockquote&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>
