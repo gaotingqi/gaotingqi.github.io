@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/child/"/>
-  <updated>2018-01-29T01:48:45.959Z</updated>
+  <updated>2018-01-29T12:28:19.699Z</updated>
   <id>http://yoursite.com/child/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>常用软件推荐</title>
+    <link href="http://yoursite.com/child/2018/01/29/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    <id>http://yoursite.com/child/2018/01/29/常用软件推荐/</id>
+    <published>2018-01-29T11:21:11.000Z</published>
+    <updated>2018-01-29T12:28:19.699Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>平常使用了很多软件，稍有强迫症，总结了一些目前来说比较好用的软件，推荐出来。下载地址均为官方网站下载地址，纯净无插件捆绑。</p></blockquote><a id="more"></a><hr><h2 id="浏览器"><a href="#浏览器" class="headerlink" title="浏览器"></a>浏览器</h2><p>当之无愧推荐 <strong>Chrome</strong> <a href="http://www.google.cn/chrome/browser/desktop/index.html" target="_blank" rel="noopener">下载地址</a></p><blockquote><p>Chrome 配合插件，能够实现你能想到的任何功能。</p></blockquote><p><img src="https://blog-1256026265.cos.ap-chengdu.myqcloud.com/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/chrome.png" alt="chrome"></p><h2 id="本地文件搜索"><a href="#本地文件搜索" class="headerlink" title="本地文件搜索"></a>本地文件搜索</h2><p>秒搜电脑中任意文件的 <strong>Everything</strong> <a href="http://www.voidtools.com/downloads/" target="_blank" rel="noopener">下载地址</a></p><blockquote><p>只要你知道文件名或者关键字，随便搜，秒速！</p></blockquote><p><img src="https://blog-1256026265.cos.ap-chengdu.myqcloud.com/everything.png" alt="everything"></p><h2 id="下载器"><a href="#下载器" class="headerlink" title="下载器"></a>下载器</h2><p>达到满速下载的 <strong>IDM</strong> <a href="http://www.internetdownloadmanager.com/download.html" target="_blank" rel="noopener">下载地址</a></p><blockquote><p>IDM为收费软件，参考 <a href="http://tieba.baidu.com/p/5443605362" target="_blank" rel="noopener">IDM吧</a> 破解。只要是网页上的东西它都能下下来！</p></blockquote><p><img src="https://blog-1256026265.cos.ap-chengdu.myqcloud.com/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/IDM.png" alt="IDM"></p><h2 id="解压缩软件"><a href="#解压缩软件" class="headerlink" title="解压缩软件"></a>解压缩软件</h2><p>不为人所知的良心软件 <strong>Bandizip</strong> <a href="http://www.bandisoft.com/bandizip/cn/" target="_blank" rel="noopener">下载地址</a></p><blockquote><p>Bandizip 之所以出色，一系列的细节功能功不可没。</p></blockquote><p><img src="https://www.bandisoft.com/bandizip/screenshot.png" alt="Bandizip"></p><h2 id="截屏软件"><a href="#截屏软件" class="headerlink" title="截屏软件"></a>截屏软件</h2><p>比qq截屏更好的软件 <strong>Snipaste</strong> <a href="https://zh.snipaste.com/download.html" target="_blank" rel="noopener">下载地址</a></p><blockquote><p>开发了三年的截图工具，但不只是截图。</p></blockquote><p><img src="https://i.v2ex.co/TNqoS229.png" alt="Snipaste"></p><h2 id="PDF阅读器"><a href="#PDF阅读器" class="headerlink" title="PDF阅读器"></a>PDF阅读器</h2><p>小巧，快速，纯净的阅读器 <strong>SumatraPDF</strong> <a href="http://www.sumatrapdfreader.org/download-free-pdf-viewer.html" target="_blank" rel="noopener">下载地址</a></p><blockquote><p>开源免费、超级小巧、启动非常迅速的 Windows 平台电子书阅读器。</p></blockquote><p><img src="http://d33wubrfki0l68.cloudfront.net/147386b947f553443a395a0ae1d3ed0444fd16f4/93eed/img/sum-shot-03-small.png" alt="SumatraPDF"></p><blockquote><p>如果你有更好的软件推荐，欢迎发邮件分享。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;平常使用了很多软件，稍有强迫症，总结了一些目前来说比较好用的软件，推荐出来。下载地址均为官方网站下载地址，纯净无插件捆绑。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="电脑" scheme="http://yoursite.com/child/categories/%E7%94%B5%E8%84%91/"/>
+    
+    
+      <category term="软件" scheme="http://yoursite.com/child/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>长安冬雪</title>
