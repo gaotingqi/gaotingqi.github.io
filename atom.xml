@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/child/"/>
-  <updated>2018-02-06T01:50:12.912Z</updated>
+  <updated>2018-02-10T14:42:11.238Z</updated>
   <id>http://yoursite.com/child/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>联通光纤WIFI设置</title>
+    <link href="http://yoursite.com/child/2018/02/10/%E8%81%94%E9%80%9A%E5%85%89%E7%BA%A4WIFI%E8%AE%BE%E7%BD%AE/"/>
+    <id>http://yoursite.com/child/2018/02/10/联通光纤WIFI设置/</id>
+    <published>2018-02-10T14:39:51.000Z</published>
+    <updated>2018-02-10T14:42:11.238Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>寒假回家，家里升级了网络变成了联通光纤，给配了联通自带的猫和路由一体机（下文简称“联通一体机”），但是有诸多限制，最大用户数只有四个，而且，在二楼也连不上网络，因此，对此进行了WIFI优化。记下优化过程，供以后参考。</p></blockquote><a id="more"></a><h1 id="探索过程"><a href="#探索过程" class="headerlink" title="探索过程"></a>探索过程</h1><h2 id="1-小米WIFI放大器2代"><a href="#1-小米WIFI放大器2代" class="headerlink" title="1. 小米WIFI放大器2代"></a>1. 小米WIFI放大器2代</h2><blockquote><p>最开始，用了小米WIFI放大器2代，放在了二楼，连接一楼联通一体机，虽然WIFI信号增强了许多，但是无法链接，一直显示<code>正在获取IP</code>。<br>开始怀疑WIFI放大器的问题，就到论坛上找了很多解决方案，最后确定出来，是因为联通一体机不能给提供IP，需要手动设置。</p></blockquote><p><strong>解决方案</strong></p><ol><li>设置WIFI放大器，设置与联通一体机不同的名称，链接联通一体机。</li><li>手机端设置该WIFI为静态IP，<strong>ip地址</strong>为地址池中，一般地址池为<code>192.168.1.2-192.168.1.254</code>，<strong>路由器</strong>设置为<code>192.168.1.1</code>，<strong>前缀长度</strong>为<code>24</code>，DNS1为<code>8.8.8.8</code>，DNS2为<code>8.8.4.4</code>。</li></ol><h2 id="2-TP-link路由器"><a href="#2-TP-link路由器" class="headerlink" title="2. TP-link路由器"></a>2. TP-link路由器</h2><blockquote><p>由于联通一体机的<strong>设备数量限制</strong>以及<strong>小米WIFI放大器2代需要静态ip</strong>问题，于是想到了用外接路由器解决该问题。</p></blockquote><p><strong>硬件配置</strong></p><ol><li>接入网络，一条网线接入电脑，浏览器输入联通光纤超级管理员地址： <code>192.168.1.1/cu.html</code>，输入联通光纤超级管理员账号：<code>CUAdmin</code>，密码：<code>CUAdmin</code>，输入入网账户密码。</li><li>电脑连接TP-link，浏览器输入路由器默认地址：<code>192.168.1.1</code>，由于该地址与联通一体机地址冲突，所以要改掉。在<code>网关设置</code>中，修改IP地址为：<code>192.168.2.1</code>，子网掩码为：<code>255.255.255.0</code>。</li><li>重启TP-link，浏览器输入<code>192.168.2.1</code>连接路由器，开启DHCP功能，上网连接方式设置为动态IP，开启无线功能，配置WIFI名称及密码。</li><li>从联通一体机后边任意一个网口接出，连接到TP-link的<strong>WAN</strong>口即可。</li></ol><h1 id="最终配置"><a href="#最终配置" class="headerlink" title="最终配置"></a>最终配置</h1><ol><li>一楼，入网用了联通一体机，再外接TP-link发放WIFI。</li><li>二楼，小米WIFI放大器2代，连接到TP-link发放的WIFI，就不用另行设置静态IP了。</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;寒假回家，家里升级了网络变成了联通光纤，给配了联通自带的猫和路由一体机（下文简称“联通一体机”），但是有诸多限制，最大用户数只有四个，而且，在二楼也连不上网络，因此，对此进行了WIFI优化。记下优化过程，供以后参考。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="电脑" scheme="http://yoursite.com/child/categories/%E7%94%B5%E8%84%91/"/>
+    
+    
+      <category term="路由器" scheme="http://yoursite.com/child/tags/%E8%B7%AF%E7%94%B1%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>Win10 任务栏全透明</title>
