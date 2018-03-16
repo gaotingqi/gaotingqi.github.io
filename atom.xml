@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/child/"/>
-  <updated>2018-02-10T14:42:11.238Z</updated>
+  <updated>2018-03-16T12:27:20.688Z</updated>
   <id>http://yoursite.com/child/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>牟欣西工大一行感悟</title>
+    <link href="http://yoursite.com/child/2018/03/16/%E7%89%9F%E6%AC%A3%E8%A5%BF%E5%B7%A5%E5%A4%A7%E4%B8%80%E8%A1%8C%E6%84%9F%E6%82%9F/"/>
+    <id>http://yoursite.com/child/2018/03/16/牟欣西工大一行感悟/</id>
+    <published>2018-03-16T12:23:03.000Z</published>
+    <updated>2018-03-16T12:27:20.688Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>2018年3月14日，中航工业贵州黎阳航空发动机有限公司党委书记、总经理牟欣来访西工大，并为我们班进行了座谈会。</p></blockquote><a id="more"></a><p>牟欣老师为人和蔼，对即将毕业找工作的我们，谈了些为人处世的态度。<br>对于此次座谈会，受益匪浅，我做以下总结：</p><ul><li>放低姿态，谦虚做人</li><li>会说话，说好话，多赞美别人</li><li>勤快，多干活</li><li>增强团队协作能力</li><li>善于总结</li><li>开卷有益</li><li>面对挫折不气馁，吸取教训</li><li>持续学习能力</li><li>犯错不怕，不用觉得别人很在意</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;2018年3月14日，中航工业贵州黎阳航空发动机有限公司党委书记、总经理牟欣来访西工大，并为我们班进行了座谈会。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/child/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="感悟" scheme="http://yoursite.com/child/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>联通光纤WIFI设置</title>
