@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/child/"/>
-  <updated>2018-12-19T01:45:54.664Z</updated>
+  <updated>2018-12-27T09:09:36.813Z</updated>
   <id>http://yoursite.com/child/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>长安冬雪-2018</title>
+    <link href="http://yoursite.com/child/2018/12/27/%E9%95%BF%E5%AE%89%E5%86%AC%E9%9B%AA-2018/"/>
+    <id>http://yoursite.com/child/2018/12/27/长安冬雪-2018/</id>
+    <published>2018-12-27T08:47:55.000Z</published>
+    <updated>2018-12-27T09:09:36.813Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>逢雪宿芙蓉山主人</strong><br><em>刘长卿</em><br>日暮苍山远，天寒白屋贫。<br>柴门闻犬吠，风雪夜归人。</p></blockquote><a id="more"></a><p><em>柴门闻犬吠，风雪夜归人</em> 短短十个字，却绘制一副美妙的画面，真的是妙哉。无以言表。</p><p>2018 长安初雪，不由得想起小时候 <code>千山鸟飞绝，万径人踪灭</code> 的雪景。<br>而如今，是盼星星，盼月亮，也盼不来 <code>村落里，傍晚中，白白的大雪夹杂着袅袅炊烟</code> 的儿时雪景了。</p><p>只能拍拍照片，读读古诗，聊以慰藉罢了。</p><p><img src="https://blog-1256026265.cos.ap-chengdu.myqcloud.com/%E9%95%BF%E5%AE%89%E5%86%AC%E9%9B%AA-2018/snow.png" alt="航空楼雪"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;逢雪宿芙蓉山主人&lt;/strong&gt;&lt;br&gt;&lt;em&gt;刘长卿&lt;/em&gt;&lt;br&gt;日暮苍山远，天寒白屋贫。&lt;br&gt;柴门闻犬吠，风雪夜归人。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/child/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="雪" scheme="http://yoursite.com/child/tags/%E9%9B%AA/"/>
+    
+  </entry>
   
   <entry>
     <title>批处理重命名文件</title>
