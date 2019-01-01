@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/child/"/>
-  <updated>2018-12-27T09:09:36.813Z</updated>
+  <updated>2019-01-01T12:13:09.061Z</updated>
   <id>http://yoursite.com/child/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20190101心得</title>
+    <link href="http://yoursite.com/child/2019/01/01/20190101%E5%BF%83%E5%BE%97/"/>
+    <id>http://yoursite.com/child/2019/01/01/20190101心得/</id>
+    <published>2019-01-01T12:09:43.000Z</published>
+    <updated>2019-01-01T12:13:09.061Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>20190101，今日思考心得。</p></blockquote><a id="more"></a><ul><li>一定要多思考，多想。面对问题，自己应该努力地去思考如何解决。</li><li>多自己有规划，有目标，不能盲从。</li><li>要善于抛出问题，但同时，也要提出自己对问题的看法，最好是自己思考过后的解决方案！</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;20190101，今日思考心得。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/child/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>长安冬雪-2018</title>
